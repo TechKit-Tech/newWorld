@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-AngkorVr-0.1";
 const contentToCache = [
     "Build/Web.loader.js",
-    "Build/Web.framework.js.gz",
-    "Build/Web.data.gz",
-    "Build/Web.wasm.gz",
+    "Build/Web.framework.js",
+    "Build/Web.data",
+    "Build/Web.wasm",
     "TemplateData/style.css"
 
 ];
